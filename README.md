@@ -10,4 +10,4 @@ Olá! Eu sou mikoeww, um(a) desenvolvedor(a) misterioso(a) apaixonado(a) por des
 
 ## Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoeww&layout=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoeww&layout=compact)
