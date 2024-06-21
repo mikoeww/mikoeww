@@ -1,8 +1,17 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá! Sou entusiasta de tecnologia apaixonad por desenvolvimento de software e aprendizado contínuo.
+Olá! Eu sou mikoeww, um(a) desenvolvedor(a) misterioso(a) apaixonado(a) por desafios e tecnologia.
+(duvido acertar meu gênero)
 
-- 👩‍💻 Desenvolvedor Full-stack
-- 🌱 Interessado em IA, Machine Learning e desenvolvimento web
+## Habilidades
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikoeww)](https://github.com/anuraghazra/github-readme-stats)
+- 🌌 Explorador(a) de novas tecnologias
+- 💻 Codificador(a) de software com amor por problemas complexos
+
+## Estatísticas do GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikoeww&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoeww&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikoeww&theme=dark)
