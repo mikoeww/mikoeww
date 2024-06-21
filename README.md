@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá! Eu sou mikoeww, um(a) desenvolvedor(a) misterioso(a) apaixonado(a) por desafios e tecnologia.
+Olá! Eu sou Miko, um(a) desenvolvedor(a) misterioso(a) apaixonado(a) por desafios e tecnologia.
 (duvido acertar meu gênero)
 
 ## Habilidades
@@ -12,6 +12,6 @@ Olá! Eu sou mikoeww, um(a) desenvolvedor(a) misterioso(a) apaixonado(a) por des
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikoeww&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoeww&layout=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoeww)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikoeww&theme=dark)
