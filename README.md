@@ -12,6 +12,6 @@ Olá! Eu sou mikoeww, um(a) desenvolvedor(a) misterioso(a) apaixonado(a) por des
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikoeww&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoeww&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoeww&layout=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikoeww&theme=dark)
